@@ -30,3 +30,4 @@ In admin dashboard, you can
 Also, I have used WAMP server and for using PHP My Admin, my username was <b>root</b> and password was<b>""</b>.
 In case you have a different one, edit it in the <b><i>dbcon.php</i></b>file.
 <hr>
+# New-project
